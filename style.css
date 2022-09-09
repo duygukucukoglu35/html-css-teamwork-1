@@ -1,0 +1,66 @@
+.shoppers {
+    /* position: relative;*/
+    width: 1260px;
+    height: 479px;
+    left: 30px;
+    top: 1511px;
+    background-color: #d2deda;
+    color: #092e17;
+    flex-wrap: nowrap;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+   
+
+}
+
+.left-img {
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    
+
+}
+
+.page-headers{
+    position: absolute;
+    width: 560px;
+    height: 110px;
+    left: 680px;
+    top: 150px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 30px;
+    line-height: 50px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+    margin-bottom: 700px;
+
+
+}
+
+
+.page-explations{
+
+    width: 500px;
+    height: 100px;
+    left: 680px;
+    top: 1700px;
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 50px;
+    flex-wrap: nowrap;
+    flex-direction: column;
+    align-items: center;
+    gap: 5rem;
+    margin-bottom: 700px;
+
+}
