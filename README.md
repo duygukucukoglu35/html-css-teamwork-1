@@ -4,7 +4,7 @@
 
 ###### Design is created by Can Öcalır and Busra Ceval on Figma
 
-[Figma design link](https://www.figma.com/file/zTm2ezx25QvPqz24zUlcCY/Diamond?node-id=9%3A2)
+[Figma design link](https://www.figma.com/file/zTm2ezx25QvPqz24zUlcCY/Diamond?node-id=0%3A1)
 
 ![alt text](./readme-images.png)
  
