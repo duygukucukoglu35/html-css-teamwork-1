@@ -1,0 +1,76 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:wght@300&family=Montserrat:wght@300&display=swap");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.0/css/all.min.css");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  font-family: "Montserrat", sans-serif;
+  color: white;
+}
+.container {
+  background-color: #16434d;
+  width: 1280px;
+  height: 635px;
+}
+.main {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  gap: 1rem;
+  height: 110px;
+  text-align: center;
+}
+.icon {
+  font-size: 70px;
+  /* position: absolute; */
+}
+.text {
+  font-size: 22px;
+}
+.button {
+  width: 356px;
+  height: 55px;
+  background-color: white;
+  font-weight: 400;
+  font-size: 24px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  border-radius: 20px;
+  margin-left: 200px;
+}
+
+#become {
+  text-align: center;
+  color: black;
+  margin-left: 70px;
+}
+.list1,
+.list2,
+.list3,
+.list4 {
+  display: flex;
+  flex-direction: column;
+}
+.listcontainer {
+  font-weight: 400;
+  font-size: 20px;
+  display: flex;
+  justify-content: space-between;
+  line-height: 3rem;
+  padding: 6rem;
+}
+.bottom {
+  font-weight: 400;
+  font-size: 24px;
+  line-height: 29px;
+  display: flex;
+  align-items: center;
+  text-align: center;
+  color: white;
+}
+#all {
+  margin-left: 27rem;
+  margin-top: 7rem;
+}
